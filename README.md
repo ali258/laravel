@@ -10,17 +10,17 @@ You need to following these steps.
 
 First you need to install the [xampp](https://www.apachefriends.org/index.html). 
 
-In xampp install the Apache and Mysql service.
+In xampp start the Apache and Mysql service.
 
-You can see the [PHP info](http://localhost/dashboard/phpinfo.php).
+Now you can see the [PHP info](http://localhost/dashboard/phpinfo.php).
 
-or Check php version by using this command :
+or check php version by using this command :
 ```
 php -v
 ```
 
 ## Composer
-###### What is composer?
+### What is composer?
 Composer is a dependency manager for PHP And with the help of the composer we don't need to install the dependencies manually. Every dependency is installed by the composer automatically in the vendor folder.
 
 Download Composer by this [Site](https://getcomposer.org/download/).
