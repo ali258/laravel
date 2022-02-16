@@ -21,11 +21,9 @@ php -v
 
 ## Composer
 ### What is composer?
-Composer is a dependency manager for PHP And with the help of the composer we don't need to install the dependencies manually. Every dependency is installed by the composer automatically in the vendor folder.
+Composer is a dependency manager for PHP and with the help of the composer we don't need to install the dependencies manually. Every dependency is installed by the composer automatically in the **vendor folder**.
 
-Download Composer by this [Site](https://getcomposer.org/download/).
-
-Install the composer.
+Download Composer by this [Site](https://getcomposer.org/download/). Install the composer.
 
 Check composer version :
 ```
