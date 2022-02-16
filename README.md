@@ -29,6 +29,20 @@ Check php version :
 php -v
 ```
 
+Now go to your working directory.
+
+```
+cd Users\username
+cd documents\GitHub
+cd repository_name
+```
+
+Everytime you need to add a project on **Laravel**.
+Run this command :
+```
+laravel new project_name
+```
+
 
 > Heading
 
