@@ -62,6 +62,8 @@ php artisan serve
 ```
 
 
-> Heading
+> First find the solution :hourglass_flowing_sand: to the problem then write the code :fire:. (Ali Raza)
+
+
 
 
