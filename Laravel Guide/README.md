@@ -31,3 +31,15 @@
 - API
 - Project
 - New Feature
+
+
+## Folder Structure 
+
+Where we write 
+- HTML
+- Model
+- Controller 
+- Routing
+- File Store
+- Config
+- Database
