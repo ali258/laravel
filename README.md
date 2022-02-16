@@ -1,9 +1,25 @@
 # Laravel
 
-## What is composer?
+## Xampp
+
+First you need to install the [xampp](https://www.apachefriends.org/index.html). 
+
+In xampp install the Apache and Mysql service.
+
+You can see the [PHP info](http://localhost/dashboard/phpinfo.php).
+
+or Check php version by using this command :
+```
+php -v
+```
+
+## Composer
+###### What is composer?
 Composer is a dependency manager for PHP And with the help of the composer we don't need to install the dependencies manually. Every dependency is installed by the composer automatically in the vendor folder.
 
 Download Composer by this [Site](https://getcomposer.org/download/).
+
+Install the composer.
 
 Check composer version :
 ```
@@ -13,20 +29,14 @@ composer
 
 ## Install laravel?
 
-You can install laravel by this command.
+You may install the Laravel Installer as a global Composer dependency. You can run this command only one time.
 ```
 composer global require laravel/installer
 ```
-You can run this command only one time.
 
 Check laravel version :
 ```
 laravel
-```
-
-Check php version :
-```
-php -v
 ```
 
 Now go to your working directory.
@@ -41,6 +51,10 @@ Everytime you need to add a project on **Laravel**.
 Run this command :
 ```
 laravel new project_name
+
+cd project_name
+ 
+php artisan serve
 ```
 
 
