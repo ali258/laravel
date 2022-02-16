@@ -1,5 +1,11 @@
 # Laravel
 
+You need to following these steps.
+
+- Install Xampp
+- Install Composer
+- Install Laravel 9
+
 ## Xampp
 
 First you need to install the [xampp](https://www.apachefriends.org/index.html). 
