@@ -13,6 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Route::get('/', function () {
+//     return view('blog');
+// });
+
+
 Route::get('/', function () {
-    return view('welcome');
+    $name = 'Ali Raza';
+    return view('blog', ['name'=>$name]);
 });
+
+
+Route::view("user", 'user');
